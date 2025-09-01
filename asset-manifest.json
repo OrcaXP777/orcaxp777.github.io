@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a44e2b9.css",
-    "main.js": "/static/js/main.17ff7665.js",
+    "main.css": "/static/css/main.75d4f1f7.css",
+    "main.js": "/static/js/main.20a59d8c.js",
     "static/media/oxp-ch2.mp4": "/static/media/oxp-ch2.62ebc8d908d204d3d158.mp4",
     "static/media/fa-duotone-900.svg": "/static/media/fa-duotone-900.bac7a949fdfa983ff8a5.svg",
     "static/media/fa-light-300.svg": "/static/media/fa-light-300.676ceddb711397cb345f.svg",
@@ -97,11 +97,11 @@
     "static/media/email-2.svg": "/static/media/email-2.13ef6977ba156dd1b0d14ff6e3893573.svg",
     "static/media/phone.svg": "/static/media/phone.fd195e2ed0459b982b9bb2733eec27cc.svg",
     "static/media/loaction.svg": "/static/media/loaction.72c9c23df38a0aee1aa9627b7c7efce2.svg",
-    "main.3a44e2b9.css.map": "/static/css/main.3a44e2b9.css.map",
-    "main.17ff7665.js.map": "/static/js/main.17ff7665.js.map"
+    "main.75d4f1f7.css.map": "/static/css/main.75d4f1f7.css.map",
+    "main.20a59d8c.js.map": "/static/js/main.20a59d8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a44e2b9.css",
-    "static/js/main.17ff7665.js"
+    "static/css/main.75d4f1f7.css",
+    "static/js/main.20a59d8c.js"
   ]
 }
